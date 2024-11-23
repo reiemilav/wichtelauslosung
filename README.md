@@ -1,0 +1,1 @@
+Simple script for a Secret Santa draw. Uses Gmail to send emails. See https://mailtrap.io/blog/python-send-email-gmail/. To use it, set everything up in the config.json.template and rename it to config.json.

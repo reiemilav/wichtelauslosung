@@ -1,0 +1,14 @@
+{
+    "app_pw":"",
+    "subject": "Wichtelpartner 2024",
+    "body": "Dein Wichtelpartner ist: ",
+    "sender": "",
+
+    "participants": {
+        "Name":"email@provider"
+    },
+
+    "restricted_pairs": {
+        "name_giver":"name_receiver"
+    }
+}
